@@ -56,6 +56,22 @@ header ul li a{
 .course h2{
     text-transform: uppercase;
     text-align: center;
+    padding: 40px 0px;
+}
+.card{
+    border: none;
+    padding: 5px 5px;
+    box-shadow: 6px 6px 20px gray;
+}
+.calender, .people{
+    width: 30px;
+    padding: 5px 2px;
+}
+.card-footer{
+    padding: 10px;
+    border: none;
+    background: white;
+    font-size: 8px;
 }
 .about-us img{
     width: 120px;
