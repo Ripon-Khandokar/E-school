@@ -1,0 +1,90 @@
+section{
+    padding-bottom: 50px;
+    margin-bottom: 70px;
+}
+header{
+    background-color: #F0FFF0;
+    padding: 10px 0;
+}
+header img{
+    width: 150px;
+}
+header ul li a{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: black !important;
+
+}
+.btn{
+    background-color: green;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 18px;
+}
+.home{
+    background-color: #F0FFF0;
+    padding: 10px 0;
+    padding-bottom: 50px;
+}
+.home .gray{
+    color:gray;
+}
+.home p{
+    color: red;
+    text-transform: capitalize;
+}
+.home span{
+    color: green;
+
+}
+.home img{
+    width: 100%;
+}
+.categories .book{
+    border-radius: 10px;
+    padding: 10px 50px;
+    background-color: darkgray;
+}
+.book img{
+    width: 120px;
+}
+.book{
+    padding: 20px 5px;
+    height: 225px;
+
+}
+.course h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+.about-us img{
+    width: 120px;
+}
+.details{
+    text-align:center;
+}
+
+footer{
+    background-color:black;
+    color: white;
+    padding: 20px 10px;
+}
+footer h5{
+    text-transform: capitalize;
+
+}
+footer ul{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+footer .copyright{
+    padding-top: 50px;
+    font-size: 10px;
+    text-transform: capitalize;
+    text-align: center;
+}
